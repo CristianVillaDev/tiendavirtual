@@ -26,10 +26,11 @@
 					<li class="nav-item"><a class="nav-link"
 						href="proveedores.jsp">Proveedores</a></li>
 					<li class="nav-item"><a class="nav-link active" href="#">Productos
-							<span class="visually-hidden">(current)</span>
+							
 					</a></li>
 					<li class="nav-item"><a class="nav-link" href="ventas.jsp">Ventas</a></li>
-					<li class="nav-item"><a class="nav-link" href="reportes.jsp">Reportes</a></li>
+					<li class="nav-item"><a class="nav-link" href="reportes.jsp">Reportes
+						<span class="visually-hidden">(current)</span></a></li>
 				</ul>
 			</div>
 		</div>
